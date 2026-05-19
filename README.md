@@ -14,10 +14,10 @@ Compatible with **Google Colab.**
 
 ## Demo outline 
 
-| # | Notebook | What you'll learn | Time |
-|---|----------|-------------------|------|
-| 01 | [**Random walk in 2D**](./random_walk_2D.ipynb) | Implementation of random walk diffusion in 2D on a square and triangular lattice | ~15 min |
-| 02 | [**Random walk in 3D**](./random_walk_3D.ipynb) | Implementation of random walk diffusion in 3D on a cubic and FCC lattice | ~15 min |
+| Notebook | What you'll learn | Time |
+|----------|-------------------|------|
+| [**Random walk in 2D**](./random_walk_2D.ipynb) | Random walk diffusion in on a square and triangular lattice | ~15 min |
+| [**Random walk in 3D**](./random_walk_3D.ipynb) | Random walk diffusion in on a cubic and FCC lattice | ~15 min |
 
 **Total: ~30-60 minutes** (with hands-on Colab work)
 
@@ -25,5 +25,5 @@ Compatible with **Google Colab.**
 
 | Notebook | Link |
 |----------|------|
-| 01 Random walk in 2D | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/wangmatgroup/random-walk-demo/blob/main/random_walk_2D.ipynb) |
-| 02 Random walk in 3D | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/wangmatgroup/random-walk-demo/blob/main/random_walk_3D.ipynb) |
+| Random walk in 2D | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wangmatgroup/random-walk-demo/blob/main/random_walk_2D.ipynb) |
+| Random walk in 3D | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wangmatgroup/random-walk-demo/blob/main/random_walk_3D.ipynb) |
